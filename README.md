@@ -19,5 +19,5 @@ Kennedy O'Hanley
  
 ## Useful Websites:
 
-1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+1. [Markdown Cheatsheet]https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   
