@@ -5,7 +5,6 @@ Kennedy O'Hanley
 # informal responses
 
 1. Bluemstock (Jan 28th)
-2. ...
 
 # formal papers
 
