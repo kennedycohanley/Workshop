@@ -6,7 +6,7 @@ Kennedy O'Hanley
 
 1. [Blumenstock Response](https://github.com/kennedycohanley/Workshop/blob/master/blumenstock.md) (Jan 28th)
 
-2. [Blumenstock Response](https://kennedycohanley.github.io/Workshop/) (Jan 28th)
+2. [Blumenstock Response](https://kennedycohanley.github.io/Workshop/) (Jan 30th- REVISED)
 
 ## Assignments:
 
