@@ -4,7 +4,9 @@ Kennedy O'Hanley
 
 ## Responses to Readings:
 
-1. [Bluemstock (Jan 28th)](https://github.com/kennedycohanley/Workshop/blob/master/blumenstock.md)
+1. [Blumenstock Response](https://github.com/kennedycohanley/Workshop/blob/master/blumenstock.md) (Jan 28th)
+
+2. [Blumenstock Response](https://kennedycohanley.github.io/Workshop/) (Jan 28th)
 
 ## Assignments:
 
