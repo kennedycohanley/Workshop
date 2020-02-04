@@ -5,7 +5,7 @@ Kennedy O'Hanley
 ## Responses to Readings:
 
 1. [Blumenstock Response](https://kennedycohanley.github.io/Workshop/blumenstock) (Jan 30th- REVISED)
-2. [Jahan and Rosling Response](https://github.com/kennedycohanley/Workshop/blob/master/jahan_rosling.md) (Feb 4th)
+2. [Jahan and Rosling Response](https://kennedycohanley.github.io/Workshop/jahan_rosling.md) (Feb 4th)
 
 ## Assignments:
 
