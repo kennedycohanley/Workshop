@@ -9,14 +9,8 @@ Kennedy O'Hanley
 
 ## Assignments:
 
-1. Annotated Bibliography
-  -Problem Statement
-    -Harms
-    -Significance of those harms
-    -Inherent nature of the problem
-  -Selected LMIC of Region
-  -Dimension of Human Development
- 2. Literature Review
+1. [Annotated Bibliography](https://kennedycohanley.github.io/Workshop/annotatedbibliography) (DUE Feb 22nd)
+2. Literature Review
  
 ## Useful Websites:
 
