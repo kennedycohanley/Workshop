@@ -1,6 +1,6 @@
 # Assignment 1: Annotated Bibliograpy
 
-Kennedy O'Hanley
+Kennedy O'Hanley 
 
 DATA 150 Spring 2020
 
