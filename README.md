@@ -7,6 +7,7 @@ Kennedy O'Hanley
 1. [Blumenstock Response](https://kennedycohanley.github.io/Workshop/blumenstock) (Jan 30th- REVISED)
 2. [Jahan and Rosling Response](https://kennedycohanley.github.io/Workshop/jahan_rosling) (Feb 4th-REVISED)
 3. [Barden Response](https://kennedycohanley.github.io/Workshop/barden) (Feb 18th)
+4. [Anderson and Kitchin Response](https://kennedycohanley.github.io/Workshop/anderson_kitchin) (Feb 25th)
 
 ## Assignments:
 
