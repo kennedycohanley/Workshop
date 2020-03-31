@@ -9,6 +9,7 @@ Kennedy O'Hanley
 3. [Barden Response](https://kennedycohanley.github.io/Workshop/barden) (Feb 18th)
 4. [Anderson and Kitchin Response](https://kennedycohanley.github.io/Workshop/anderson_kitchin) (Feb 25th)
 5. [Stephens Response](https://kennedycohanley.github.io/Workshop/stephens) (March 26th)
+6. [Nieves Response](https://kennedycohanley.github.io/Workshop/nieves) (March 31st)
 
 ## Assignments:
 
