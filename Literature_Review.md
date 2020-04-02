@@ -1,16 +1,16 @@
 ### Literature Review
-##Kennedy O'Hanley
-##April 5th, 2020
+## Kennedy O'Hanley
+## April 5th, 2020
 
-#Problem Statement:
-
-
-#Process:
+# Problem Statement:
 
 
-#Geospatial Data Science Methods:
+# Process:
 
 
-#Discussion:
+# Geospatial Data Science Methods:
+
+
+# Discussion:
 
 
