@@ -14,6 +14,7 @@ Kennedy O'Hanley
 ## Assignments:
 
 1. [Annotated Bibliography](https://kennedycohanley.github.io/Workshop/annotatedbibliography) (DUE Feb 23rd)
+2. [Literature Review](https://kennedycohanley.github.io/Workshop/Literature_Review) (DUE April 5th)
  
 ## Useful Websites:
 
