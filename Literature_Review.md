@@ -35,4 +35,23 @@ There was also census data taken. Specifically in Cause of neonatal deaths in No
 
 Through the use of these articles and through data science methods, I am looking at whether infant mortality could be lessened by a decrease in travel time to healthcare facilities by mothers. There is clear data showing that the further away a mother lives from a healthcare facility, the more likely she is to not attend postnatal care, which in turn heightens the child's chance of death. The articles mainly used technology that took in parameters, in order to narrow in on the reasons behind mortality in children under five. By using multi logistic regression, and ARCGis technology, we can improve upon predictions of where exactly women of child bearing age reside, and where children younger than five reside. By getting a more accurate count of exactly where these people live, we will be able to put more healthcare resources in more efficient parts of the country. Right now, I believe we are missing the data that is needed in order to make an educated assumption about where it would be most efficient to place resources. I was also unable to find information with bayesian models. However, right now, many women are suffering, and unable to get the care that they need and deserve. These women are walking miles simply to give birth, and many of these women have other children. This is a lot of stress to put on a pregnant woman.  A decrease in travel time and an increase in adequate resources and properly trained healthcare professionals, would likely yield a higher standard of living for many Ethiopian women, as well as decrease the shockingly high infant mortality rate for Ethiopia. 
 
+### Bibliography:
+
+Alegana, V. A., Atkinson, P. M., Pezzulo, C., Sorichetta, A., Weiss, D., Bird, T., … Tatem, A. J. (2015). Fine resolution       mapping of population age-structures for health and development applications. Journal of The Royal Society Interface, 12(105), 20150073. doi: 10.1098/rsif.2015.0073
+
+Bailey, P. E., Keyes, E. B., Parker, C., Abdullah, M., Kebede, H., & Freedman, L. (2011). Using a GIS to model interventions to strengthen the emergency referral system for maternal and newborn health in Ethiopia. International Journal of Gynecology & Obstetrics, 115(3), 300–309. doi: 10.1016/j.ijgo.2011.09.004
+
+Dadi, Lelisa Sena, et al. “Maternal and Newborn Health Services Utilization in Jimma Zone, Southwest Ethiopia: a Community Based Cross-Sectional Study.” BMC Pregnancy and Childbirth, vol. 19, no. 1, 2019, doi:10.1186/s12884-019-2335-2.
+Ebener, S., Guerra-Arias, M., Campbell, J., Tatem, A. J., Moran, A. C., Johnson, F. A., … Matthews, Z. (2015). The geography of maternal and newborn health: the state of the art. International Journal of Health Geographics, 14(1). doi: 10.1186/s12942-015-0012-x
+
+Mcpadden, J., Durant, T. J., Bunch, D. R., Coppi, A., Price, N., Rodgerson, K., … Schulz, W. L. (2019). Health Care and Precision Medicine Research: Analysis of a Scalable Data Science Platform. Journal of Medical Internet Research, 21(4). doi: 10.2196/13043
+
+Mengesha, Hayelom Gebrekirstos, and Berhe W. Sahle. “Cause of Neonatal Deaths in Northern Ethiopia: a Prospective Cohort Study.” BMC Public Health, vol. 17, no. 1, 2017, doi:10.1186/s12889-016-3979-8.
+
+Okwaraji, Y, et al. “PS53 Effect Of Geographical Access To Health Facilities On Child Mortality In Rural Ethiopia: A Community Based Cross Sectional Study.” Journal of Epidemiology and Community Health, vol. 66, no. Suppl 1, 12 Mar. 2012, doi:10.1136/jech-2012-201753.152.
+Sahle, Geletaw. “Ethiopic Maternal Care Data Mining: Discovering the Factors That Affect Postnatal Care Visit in Ethiopia.” Health Information Science and Systems, vol. 4, no. 1, 2016, doi:10.1186/s13755-016-0017-2.
+
+Tatem, A. J., Campbell, J., Guerra-Arias, M., Bernis, L. D., Moran, A., & Matthews, Z. (2014). Mapping for maternal and newborn health: the distributions of women of childbearing age, pregnancies and births. International Journal of Health Geographics, 13(1), 2. doi: 10.1186/1476-072x-13-2
+
+Tekelab, Tesfalidet, et al. “Neonatal Mortality in Ethiopia: a Protocol for Systematic Review and Meta-Analysis.” Systematic Reviews, vol. 8, no. 1, 2019, doi:10.1186/s13643-019-1012-x.
 
