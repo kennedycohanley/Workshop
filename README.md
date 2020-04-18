@@ -15,6 +15,7 @@ Kennedy O'Hanley
 
 1. [Annotated Bibliography](https://kennedycohanley.github.io/Workshop/annotatedbibliography) (DUE Feb 23rd)
 2. [Literature Review](https://kennedycohanley.github.io/Workshop/Literature_Review) (DUE April 5th)
+3. [Methodology Paper](https://kennedycohanley.github.io/Workshop/Methodology) (DUE April 19th)
  
 ## Useful Websites:
 
