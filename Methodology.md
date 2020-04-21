@@ -36,3 +36,23 @@ I do not believe one is better than the other. Both models essentially measure t
 
 There are currently no bayesian models done in Ethiopia. I believe that using new, improved models would help contribute more evidence as to why Ethiopia’s healthcare system needs to be greatly improved. My research question, to determine if infant mortality in Ethiopia could be decreased, if women had to travel less to get to the nearest healthcare facility for post-natal care, was mostly answered by these two models. Yes. The time it takes to travel to healthcare facilities does have an effect on infant mortality, and for that matter, a great impact. By funneling in money, resources, and new healthcare facilities and hospitals, infant mortality would decrease because women wouldn’t have to travel so far to safely give birth. Ethiopian women should not have to go through the pain of losing a child simply because their country does not have the resources to take care of it’s people. Too many infants are dying in Ethiopia, and also all around the world. This could be stopped if we allocate the correct amount of resources to areas that need it. In order to truly lessen the infant mortality rate, travel time for women must be decreased. 
 
+
+### Bibliography:
+
+Alaba, Oluwayemisi Oyeronke, and Chidinma Godwin. “Bayesian Hierarchical Modeling of Infant Mortality in Nigeria.” Global Journal of Pure and Applied Sciences, vol. 25, no. 2, 2019, p. 175., doi:10.4314/gjpas.v25i2.7.
+
+Alegana, V. A., Atkinson, P. M., Pezzulo, C., Sorichetta, A., Weiss, D., Bird, T., … Tatem, A. J. (2015). Fine resolution mapping of population age-structures for health and development applications. Journal of The Royal Society Interface, 12(105), 20150073. doi: 10.1098/rsif.2015.0073
+
+Bailey, P. E., Keyes, E. B., Parker, C., Abdullah, M., Kebede, H., & Freedman, L. (2011). Using a GIS to model interventions to strengthen the emergency referral system for maternal and newborn health in Ethiopia. International Journal of Gynecology & Obstetrics, 115(3), 300–309. doi: 10.1016/j.ijgo.2011.09.004
+
+Dadi, Lelisa Sena, et al. “Maternal and Newborn Health Services Utilization in Jimma Zone, Southwest Ethiopia: a Community Based Cross-Sectional Study.” BMC Pregnancy and Childbirth, vol. 19, no. 1, 2019, doi:10.1186/s12884-019-2335-2. Ebener, S., Guerra-Arias, M., Campbell, J., Tatem, A. J., Moran, A. C., Johnson, F. A., … Matthews, Z. (2015). The geography of maternal and newborn health: the state of the art. International Journal of Health Geographics, 14(1). doi: 10.1186/s12942-015-0012-x
+
+Mcpadden, J., Durant, T. J., Bunch, D. R., Coppi, A., Price, N., Rodgerson, K., … Schulz, W. L. (2019). Health Care and Precision Medicine Research: Analysis of a Scalable Data Science Platform. Journal of Medical Internet Research, 21(4). doi: 10.2196/13043
+
+Mengesha, Hayelom Gebrekirstos, and Berhe W. Sahle. “Cause of Neonatal Deaths in Northern Ethiopia: a Prospective Cohort Study.” BMC Public Health, vol. 17, no. 1, 2017, doi:10.1186/s12889-016-3979-8.
+
+Okwaraji, Y, et al. “PS53 Effect Of Geographical Access To Health Facilities On Child Mortality In Rural Ethiopia: A Community Based Cross Sectional Study.” Journal of Epidemiology and Community Health, vol. 66, no. Suppl 1, 12 Mar. 2012, doi:10.1136/jech-2012-201753.152. Sahle, Geletaw. “Ethiopic Maternal Care Data Mining: Discovering the Factors That Affect Postnatal Care Visit in Ethiopia.” Health Information Science and Systems, vol. 4, no. 1, 2016, doi:10.1186/s13755-016-0017-2.
+
+Tatem, A. J., Campbell, J., Guerra-Arias, M., Bernis, L. D., Moran, A., & Matthews, Z. (2014). Mapping for maternal and newborn health: the distributions of women of childbearing age, pregnancies and births. International Journal of Health Geographics, 13(1), 2. doi: 10.1186/1476-072x-13-2
+
+Tekelab, Tesfalidet, et al. “Neonatal Mortality in Ethiopia: a Protocol for Systematic Review and Meta-Analysis.” Systematic Reviews, vol. 8, no. 1, 2019, doi:10.1186/s13643-019-1012-x.
