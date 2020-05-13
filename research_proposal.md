@@ -3,13 +3,18 @@
 ## May 13th
 
 9110 Stephens Manor Dr.
+
 Mechanicsville VA, 23116
+
 5/13/2020
 
 Dear National Institute of Child Health and Human Development,
+
 The purpose of this research is to determine if infant mortality in Ethiopia could be decreased, if women had to travel less to get to the nearest healthcare facility for post-natal care. I would like to apply for funds to complete my research. Ethiopia does not have an adequate health care system. The infant mortality rate is about 39.1 deaths per 1,000 live births. Some women have to travel hours to reach hospitals and healthcare facilities, and because of this distance, are usually unable to make that trip several times after the birth of a child to attend postnatal care. This leads to many infants and children under five dying of preventable infections and diseases. In Ethiopia, 80% of newborn deaths are caused by treatable cases. The infants in Ethiopia are dying not only because of the travel time to adequate healthcare facilities, but also because there is an economic gap dividing the groups of women, and determining that some have the right to necessary resources, and others do not simply because they do not have the money. By funneling in money, resources, and new healthcare facilities and hospitals, infant mortality would decrease because women wouldn’t have to travel so far to safely give birth. Ethiopian women should not have to go through the pain of losing a child simply because their country does not have the resources to take care of it’s people. Too many infants are dying in Ethiopia, and also all around the world. 
 There is a specific data model that could help alleviate the number of infant mortalities in Ethiopia: a Bayesian Hierarchical model. This has not yet been done in Ethiopia, but could be incredibly helpful in determining where best to funnel resources and capital. Since the resources in Ethiopia are limited and the resources they do have are inadequate, the neonatal and maternal mortality is much higher than it should be. Human lives are at risk each and every moment in Ethiopia. I believe this research could do extraordinarily well in improving the lives of women and their newborns. With the capital to make this research happen, we could catapulte Ethiopia’s extremely high infant mortality rate to something much more reasonable, and we could save the lives of an unimaginable amount of infants. 
+
 Thank you for your time and consideration, 
+
 Kennedy O’Hanley
 
 ### Problem Statement
