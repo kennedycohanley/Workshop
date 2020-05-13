@@ -17,6 +17,7 @@ Kennedy O'Hanley
 2. [Literature Review](https://kennedycohanley.github.io/Workshop/Literature_Review) (DUE April 5th)
 3. [Methodology Paper](https://kennedycohanley.github.io/Workshop/Methodology) (DUE April 19th)
 4. [In-Class Essay](https://kennedycohanley.github.io/Workshop/in-class-essay) (DUE April 21st)
+5. [Research Proposal](https://kennedycohanley.github.io/Workshop/research_proposal) (DUE May 13th)
 ## Useful Websites:
 
 1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
